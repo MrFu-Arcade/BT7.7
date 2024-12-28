@@ -5,7 +5,7 @@
 
 因此这里分享一下7.7版本的安装脚本，是官方免费版的。
 ```
-wget -O install.sh https://raw.githubusercontent.com/insoxin/baota7.7/main/install_6.0.sh && bash install.sh
+wget -O install.sh https://raw.githubusercontent.com/MrFu-Arcade/BT7.7/main/install_6.0.sh && bash install.sh
 ```
 
 升级到7.7版本命令：
